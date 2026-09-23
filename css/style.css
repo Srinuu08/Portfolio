@@ -69,6 +69,7 @@ header nav a:first-child {
     color: var(--text-color);
     font-weight: 700;
     letter-spacing: 0.08em;
+    font-family: monospace;
 }
 
 header nav a {
@@ -97,6 +98,7 @@ header nav a:hover {
 }
 .hero-name {
     color: var(--accent-color);
+    font-weight: 700;
 }
 #hero h1 {
     margin-bottom: 1.5rem;
